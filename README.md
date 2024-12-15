@@ -1,1 +1,1 @@
-# financialfrolicker.github.io
+# TheFinancialFrolicker.github.io
